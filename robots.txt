@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zefitkolish1-oss.github.io/lamda/sitemap.xml

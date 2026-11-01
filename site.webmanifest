@@ -1,0 +1,23 @@
+{
+ "name": "Lamda · لمدا",
+ "short_name": "Lamda",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "/lamda/",
+ "scope": "/lamda/",
+ "display": "standalone",
+ "background_color": "#FFFFFF",
+ "theme_color": "#7C3AED",
+ "icons": [
+  {
+   "src": "/lamda/assets/img/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/lamda/assets/img/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
